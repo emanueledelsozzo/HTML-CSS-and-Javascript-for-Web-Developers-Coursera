@@ -1,0 +1,84 @@
+/** HEADER **/
+
+body {
+  font-size: 16px;
+  color: black;
+  font-family: sans-serif;
+}
+
+li hr {
+  margin: 0;
+}
+
+#header-nav {
+  background-color: #A9A9A9;
+  border-radius: 0;
+  border: 2px solid black;
+  margin-bottom: 0;
+}
+
+#nav-list {
+  margin-top: 0;
+  margin-bottom: 0;
+  border-top: black;
+  background-color: #E7E7E7;
+}
+
+#nav-list a {
+  color: black;
+  text-align: center;
+}
+
+#nav-list a:hover {
+  background: white;
+}
+
+.navbar-default {
+  border-color: black;
+  border-radius: 0;
+}
+
+#bs-example-navbar-collapse-1 {
+  border-color: black;
+}
+
+.item-hr {
+  border-color: black;
+}
+
+#brand {
+  color: black;
+  font-weight: bold;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+}
+
+/** end HEADER **/
+
+/** MAIN CONTENT **/
+
+#menu-title {
+  margin-bottom: 15px;
+}
+
+
+
+.menu-tile-title {
+  font-size: 1.2em;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-weight: bold;
+}
+
+.menu-tile {
+  background-color: #A9A9A9;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+
